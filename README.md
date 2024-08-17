@@ -35,3 +35,10 @@ Se utiliza ejecutando el comando "git commit (comandos internos de git si se req
 
 cambios hechos por santiago, para ver competencia del lab
 Ahora david hace algunos cambios.
+
+
+Parte 3
+
+Ahora ya clonado el repositorio con el fork y en una nueva rama estoy haciendo nuevos cambios aqui:
+
+![alt text](image-5.png)
