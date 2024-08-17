@@ -32,3 +32,6 @@ Se utiliza ejecutando el comando "git commit (comandos internos de git si se req
 ![alt text](image-4.png)
 
 
+cambios hechos por santiago, para ver competencia del lab
+
+
