@@ -29,5 +29,6 @@ Se utiliza ejecutando el comando "git commit (comandos internos de git si se req
 
 --Subida de cambios nuevos
 
+![alt text](image-4.png)
 
 
