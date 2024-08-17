@@ -1,7 +1,5 @@
 ![alt text](image.png) --Creacion de repositorio localmete
 
-1. 
-
 git add
 ¿Para que sirve?
 
@@ -20,7 +18,16 @@ El comando git commit captura una instancia que se estan realizando en los archi
 
 Se utiliza ejecutando el comando "git commit (comandos internos de git si se requieren)"
 
+--Subida de repositorio local a remoto
 
+![alt text](image-1.png)
+![alt text](image-2.png)
+
+--Configuracion de correo
+
+![alt text](image-3.png)
+
+--Subida de cambios nuevos
 
 
 
