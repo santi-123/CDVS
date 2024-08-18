@@ -35,6 +35,7 @@ Se utiliza ejecutando el comando "git commit -m (este ultimo para dejar un mensa
 Parte 2:
 
 Inicio aceptando la solicitud de colaboracion de Santiago
+Ahora hicimos un push al mismo tiempo haciendo un cambio previamente en el archivo README, como se puede ver aqui yo gane por lo que es Santiago quien debe resolver los conflictos manualmente:
 
 ¿Que sucedio?
 ![alt text](image-6.png)
@@ -44,8 +45,13 @@ A David (Collaborator) le dejo subir los cambios de primero por lo tanto me toca
 el archivo se visualiza con los simbolos <<< === >>> como se muestra a contuniacion, se procede a arreglalos manualmente
 ![alt text](image-5.png)
 
+Luego de que se hayan resuelto los conflictos manualmente volvemos a hacer push al mismo tiempo para esta ves utilizar visual studio code.
 Se vuelve hacer el mismo proceso para ahora solucionarlos con el editor
 ![alt text](image-8.png)
 
-de nuevo David(Collaborator) gana y me toca hacer la correccion de nuevo ahora usando el editor
+de nuevo David(Collaborator) gana y me toca hacer la correccion ahora usando el editor
 ![alt text](image-9.png)
+
+Al hacer el pull nos salen los mismo simbolos <<< === >>>, como se muestra a contuniacion, se procede a arreglalos desde Visual Studio Code
+![alt text](image-10.png)
+![alt text](image-11.png)
