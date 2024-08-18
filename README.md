@@ -32,5 +32,7 @@ Se utiliza ejecutando el comando "git commit (comandos internos de git si se req
 ![alt text](image-4.png)
 
 
-
-cambios hechos por santiago, para ver competencia del lab
+¿Que sucedio?
+![alt text](image-6.png)
+A David (Collaborator) le dejo subir los cambios de primero por lo tanto me toca hacer un pull para bajar los cambios realizados y solucionar los conflictos que hay entre versiones
+![alt text](image-7.png)
