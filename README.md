@@ -43,3 +43,9 @@ A David (Collaborator) le dejo subir los cambios de primero por lo tanto me toca
 
 el archivo se visualiza con los simbolos <<< === >>> como se muestra a contuniacion, se procede a arreglalos manualmente
 ![alt text](image-5.png)
+
+Se vuelve hacer el mismo proceso para ahora solucionarlos con el editor
+![alt text](image-8.png)
+
+de nuevo David(Collaborator) gana y me toca hacer la correccion de nuevo ahora usando el editor
+![alt text](image-9.png)
