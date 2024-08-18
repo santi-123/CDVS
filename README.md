@@ -64,6 +64,19 @@ Primero va a crear la nueva rama dentro de este:
 
 ![alt text](imageD-12.png)
 
+Ahora dentro de esta rama hago un add, commit y push para que de esta manera los cambios queden guardados en el fork:
+
+![alt text](imageD-13.png)
+
+Ya los cambios se ven reflejados en github, por lo tanto voy a proceder a hacer el pull request, con esto Santiago debera decidir si aceptar o no los cambios propuestos desde el fork:
+
+![alt text](imageD-14.png)
+![alt text](imageD-15.png)
+
+Esto es lo que se ve al aceptar el pull request
+
+![alt text](imageD-16.png)
+
 /////////////////////////////////////////////////
 
 Seccion de preguntas David Velasquez:
