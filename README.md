@@ -55,3 +55,35 @@ de nuevo David(Collaborator) gana y me toca hacer la correccion ahora usando el 
 Al hacer el pull nos salen los mismo simbolos <<< === >>>, como se muestra a contuniacion, se procede a arreglalos desde Visual Studio Code
 ![alt text](image-10.png)
 ![alt text](image-11.png)
+
+Parte 3:
+
+Ya David habiendo realizado este fork, va a clonarlo en el computador, para hacer cambios y posteriormente hacer un pull request.
+
+Primero va a crear la nueva rama dentro de este:
+
+![alt text](imageD-12.png)
+
+/////////////////////////////////////////////////
+
+Seccion de preguntas David Velasquez:
+
+Parte 1:
+
+3. Git add sirve para decirle a git que archivos queremos incluir en el seguimiento de git sobre el proyecto actual, si se hace git add . se toman todos los archivos actuales pero tambien se puede solo incluir el nombre de un archivo o una carpeta para solo tomar estos en cuenta.
+
+Git commit con el mensaje nos ayuda a guardar los cambios localmente "como tomarle una foto" al codigo en el momento que se hace, con un mensaje para referenciar los cambios hechos, usualmente utilizando una fecha
+
+Parte 2:
+
+¿Que sucedio?
+
+Desde mi punto de vista se realizaron los cambios correctamente, sin embargo para Santiago no fue asi por lo que debemos resolver los conflictos.
+
+Ahora hicimos un push al mismo tiempo haciendo un cambio previamente en el archivo README, como se puede ver yo gane por lo que es Santiago quien debe resolver los conflictos manualmente, esto es especialmente util en equipos grandes ya que no permite la superposicion de elementos que luego pueden dar muchos problemas
+
+Parte 3:
+
+1. Encontramos que una mejor manera de trabajar esto es realizando un fork ya que asi se trabaja una copia del proyecto, esto en proyectos grandes ayuda mucho ya que no se corre peligro de hacer cambios importantes, y cualquiera de estos es posteriormente revisado en un pull request.
+
+2. Un pull request es una solicitud al repositorio original para que se tomen en cuenta los cambios realizados en una copia del proyecto o en una rama alternativa, con ello el administrador decide que cambios se realizan y que cambios no.
