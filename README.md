@@ -21,7 +21,7 @@ Se utiliza ejecutando el comando "git commit -m (este ultimo para dejar un mensa
 --Comando git add y git commit para tener los ultimos cambios generados localmente y subirlos al repositorio remoto
 ![alt text](image-1.png)
 
---Conexxion con el repositorio remoto, y subida de los cambios al mismo 
+--Conexxion con el repositorio remoto, y subida de los cambios al mismo
 ![alt text](image-2.png)
 
 --Configuracion de correo
@@ -32,3 +32,6 @@ Se utiliza ejecutando el comando "git commit -m (este ultimo para dejar un mensa
 
 ![alt text](image-4.png)
 
+Parte 2:
+
+Inicio aceptando la solicitud de colaboracion de Santiago:
