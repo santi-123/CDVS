@@ -31,3 +31,4 @@ Se utiliza ejecutando el comando "git commit -m (este ultimo para dejar un mensa
 --Subida de cambios nuevos
 
 ![alt text](image-4.png)
+
