@@ -48,11 +48,30 @@ Al hacer el pull nos salen los mismo simbolos <<< === >>>, como se muestra a con
 ![alt text](image-11.png)
 
 Parte 3:
+Ya David habiendo realizado este fork, va a clonarlo en el computador, para hacer cambios y posteriormente hacer un pull request.
+
+Primero va a crear la nueva rama dentro de este:
+
+![alt text](imageD-12.png)
+
+Ahora dentro de esta rama hago un add, commit y push para que de esta manera los cambios queden guardados en el fork:
+
+![alt text](imageD-13.png)
+
+Ya los cambios se ven reflejados en github, por lo tanto voy a proceder a hacer el pull request, con esto Santiago debera decidir si aceptar o no los cambios propuestos desde el fork:
+
+![alt text](imageD-14.png)
+![alt text](imageD-15.png)
+
+Esto es lo que se ve al aceptar el pull request
+
+![alt text](imageD-16.png)
+
 Se procede hacer la creacion de la rama "features/santiago" para poder hacer un pull request de mis cambios con los de David
 ![alt text](image-12.png)
 
 
-PREGUNTAS: 
+RESPUESTAS: 
 --Santiago Diaz Rojas
 
 Parte 1:
@@ -99,3 +118,27 @@ para que funcione corectamente se debe hacer los siguientes pasos:
 6. Resuelve conflictos(Si Git detecta conflictos al intentar fusionar el PR, habra que resolverlos manualmente. El proceso es sencillo: Git indicará los archivos en conflicto, y se determina cómo combinar los cambios.)
 
 7. Merge en master: Una vez que el PR sea aprobado y los conflictos se hayan resuelto, los cambios se pueden fusionar en master, manteniendo el código estable y sin conflictos.
+
+
+-- David Velasquez
+
+Parte 1:
+
+3. Git add sirve para decirle a git que archivos queremos incluir en el seguimiento de git sobre el proyecto actual, si se hace git add . se toman todos los archivos actuales pero tambien se puede solo incluir el nombre de un archivo o una carpeta para solo tomar estos en cuenta.
+
+Git commit con el mensaje nos ayuda a guardar los cambios localmente "como tomarle una foto" al codigo en el momento que se hace, con un mensaje para referenciar los cambios hechos, usualmente utilizando una fecha
+
+Parte 2:
+
+¿Que sucedio?
+
+Desde mi punto de vista se realizaron los cambios correctamente, sin embargo para Santiago no fue asi por lo que debemos resolver los conflictos.
+
+Ahora hicimos un push al mismo tiempo haciendo un cambio previamente en el archivo README, como se puede ver yo gane por lo que es Santiago quien debe resolver los conflictos manualmente, esto es especialmente util en equipos grandes ya que no permite la superposicion de elementos que luego pueden dar muchos problemas
+
+Parte 3:
+
+1. Encontramos que una mejor manera de trabajar esto es realizando un fork ya que asi se trabaja una copia del proyecto, esto en proyectos grandes ayuda mucho ya que no se corre peligro de hacer cambios importantes, y cualquiera de estos es posteriormente revisado en un pull request.
+
+2. Un pull request es una solicitud al repositorio original para que se tomen en cuenta los cambios realizados en una copia del proyecto o en una rama alternativa, con ello el administrador decide que cambios se realizan y que cambios no.
+
