@@ -35,3 +35,7 @@ Se utiliza ejecutando el comando "git commit -m (este ultimo para dejar un mensa
 Parte 2:
 
 Inicio aceptando la solicitud de colaboracion de Santiago:
+
+Ahora hicimos un push al mismo tiempo haciendo un cambio previamente en el archivo README, como se puede ver aqui yo gane por lo que es Santiago quien debe resolver los conflictos manualmente:
+
+Luego de que se hayan resuelto los conflictos manualmente volvemos a hacer push al mismo tiempo para esta ves utilizar visual studio code.
